@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+x64/
+Debug/
+Release/
+
+# Build output (set in MusicPlayer.vcxproj)
+bin/
+obj/
+
+# ImGui per-user layout
+imgui.ini
+imgui_log.txt
